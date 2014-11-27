@@ -1,0 +1,7 @@
+G04 EasyGerb 4 for AutoCAD*
+G04 RS274-X Output *
+%FSLAX24Y24*%
+%MOMM*%
+%ADD12C,0.127000*%
+%ADD13C,0.007000*%
+M02*

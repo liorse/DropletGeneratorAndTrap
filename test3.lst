@@ -1,0 +1,14 @@
+
+EasyGerb 4 for AutoCAD
+*** Aperture List ***
+  
+  
+FORMAT:  2.4
+UNITS: Metric (Millimeter)
+    
+DCODE:		TYPE:		   X  :  Y  	BLOCK NAME
+--------------------------------------------------------
+10		Poex		0.0010:0.0010	
+11		Poex		0.0010:0.0010	
+12		Round		0.1270:0.1270	
+13		Round		0.0070:0.0070	
